@@ -14,11 +14,13 @@
   <a href="mailto:martinratti10@gmail.com">
     <img src="https://img.shields.io/badge/Email-martinratti10%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/martin-ratti-dev/" target="_blank">
+  
+  <a href="https://www.linkedin.com/in/martin-ratti-dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/martin-ratti/Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  
+  <a href="https://martin-ratti-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
